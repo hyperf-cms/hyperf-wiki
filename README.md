@@ -68,13 +68,12 @@
 
 > 捐杯咖啡或者一瓶肥宅快乐水
 
-<!--
 <table>
     <tr>
-        <td ><img style="display: inline-block;width: 300px;height: 300px" src="https://i.loli.net/2020/04/30/PJ1UlOGjrZNgAK6.jpg" ><p style="text-align: center">支付宝</p></td>
-        <td ><img style="display: inline-block;width: 300px;height: 300px" src="https://i.loli.net/2020/04/30/quwJb2GvSt3kpfF.jpg" ><p style="text-align: center">微信</p></td>
+        <td ><img style="display: inline-block;width: 300px;height: 300px" src="https://shmily-album.oss-cn-shenzhen.aliyuncs.com/photo_album_17/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210527115716.png" ><p style="text-align: center">支付宝</p></td>
+        <td ><img style="display: inline-block;width: 300px;height: 300px" src="https://shmily-album.oss-cn-shenzhen.aliyuncs.com/photo_album_17/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210527120018.png" ><p style="text-align: center">微信</p></td>
     </tr>
-</table> -->
+</table>
 
 ## 项目展示
 
