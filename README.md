@@ -1,9 +1,14 @@
 # hyperf-cms
 
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/node-%3E%3D%206.0.0-blue.svg" />
-  <img src="https://img.shields.io/badge/npm-%3E%3D%203.0.0-blue.svg" />
+<img src="https://hyperf-cms.oss-cn-guangzhou.aliyuncs.com/logo/logo_color.png" />
+</p>
+
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.2-blue.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/node-%3E%3D%20 12.16.1-blue.svg" />
+  <img src="https://img.shields.io/badge/npm-%3E%3D%206.13.4-blue.svg" />
+  <img src="https://img.shields.io/badge/php-%3E%3D7.2.24-red" />
   <a href="https://github.com/Nirongxu/vue-xuAdmin/blob/master/README.md">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
