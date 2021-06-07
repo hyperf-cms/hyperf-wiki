@@ -38,6 +38,8 @@
 - php >= 7.2.0
 - swoole >= 4.5.3
 - hyperf >= 2.0
+- vue >= 2.0
+- element >= 2.12.0
 
 ## 项目源码
 
@@ -96,7 +98,7 @@
 ## 📝 License
 
 Copyright © 2021 [linyiyuan](https://github.com/linyiyuan).<br />
-This project is [MIT](https://github.com/Nirongxu/vue-xuAdmin/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/hyperf-cms/hyperf-api/master/LICENSE) licensed.
 
 ---
 
