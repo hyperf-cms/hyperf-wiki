@@ -27,7 +27,7 @@
 
 👤 **YiYuanlin**
 
-- Github: [@Shmily~](https://github.com/linyiyuan)
+- Github: [@linyiyuan~](https://github.com/linyiyuan)
 - WeiXin: 13211035441
 - email: linyiyuann@163.com
 
@@ -48,7 +48,7 @@
 |        | 后端源码                                                                             | 前端源码                                                                             |
 | ------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | Github | [https://github.com/hyperf-cms/hyperf-api](https://github.com/hyperf-cms/hyperf-api) | [https://github.com/hyperf-cms/hyperf-cms](https://github.com/hyperf-cms/hyperf-cms) |
-| Gitee  | [https://gitee.com/elunez/eladmin](https://gitee.com/elunez/eladmin)                 | [https://gitee.com/elunez/eladmin-web](https://gitee.com/elunez/eladmin-web)         |
+| Gitee  | [https://gitee.com/hyperf-cms/hyperf-api](https://gitee.com/hyperf-cms/hyperf-api)   | [https://gitee.com/hyperf-cms/hyperf-cms](https://gitee.com/hyperf-cms/hyperf-cms)   |
 
 ## 更新日志
 
