@@ -35,11 +35,11 @@
 
 - node >= 12.16.1
 - npm >= 6.13.4
-- php >= 7.2.0
+- php >= 7.3.0
 - swoole >= 4.5.3
-- hyperf >= 2.0
+- hyperf >= 2.1
 - vue >= 2.0
-- element >= 2.12.0
+- element >= 2.15.3
 
 ## 项目源码
 
@@ -49,23 +49,6 @@
 | ------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | Github | [https://github.com/hyperf-cms/hyperf-api](https://github.com/hyperf-cms/hyperf-api) | [https://github.com/hyperf-cms/hyperf-cms](https://github.com/hyperf-cms/hyperf-cms) |
 | Gitee  | [https://gitee.com/hyperf-cms/hyperf-api](https://gitee.com/hyperf-cms/hyperf-api)   | [https://gitee.com/hyperf-cms/hyperf-cms](https://gitee.com/hyperf-cms/hyperf-cms)   |
-
-## 更新日志
-
-### v1.2.0
-
-1. 聊天室增加了群聊功能，支持群聊
-2. 群聊增加一些工具小组件，进一步提升用户体验
-3. 群聊增加合成头像功能，用户未选择头像则会根据组员自动生成头像
-4. 修复好友聊天的一些 bug
-
-### v1.1.0
-
-1. 增加了 Lemon-imui 聊天室的全局组件
-2. 支持全平台用户之间聊天
-3. 支持图片，文件的聊天文件传输
-4. 优化组件，将一些全局方法整理放置 utils 中，项目结构做了一些调整
-5. 增加监控任务模块
 
 ## 结语
 
